@@ -1,0 +1,24 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Stradtman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "lodash": "^4.17.4",
+    "nodemon": "^1.12.1",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.4",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3",
+    "yargs": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
